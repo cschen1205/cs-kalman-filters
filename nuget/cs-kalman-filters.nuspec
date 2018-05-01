@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cs-kalman-filters</id>
+    <version>1.0.1</version>
+    <authors>cschen1205</authors>
+    <owners>cschen1205</owners>
+    <licenseUrl>https://github.com/cschen1205/cs-kalman-filters/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cschen1205/cs-kalman-filters</projectUrl>
+    <iconUrl>https://rawgit.com/cschen1205/cs-kalman-filters/master/icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Kalman Filters</description>
+    <releaseNotes>Kalman Filters in .NET 4.6.1</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Kalman Filters, Bayesian Filters, c-sharp</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>

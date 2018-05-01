@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-kalman-filters", "cs-kalman-filters\cs-kalman-filters.csproj", "{691F8F9A-C69F-4BCB-B102-9A5366D042CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-kalman-filters-samples", "cs-kalman-filters-samples\cs-kalman-filters-samples.csproj", "{95874103-CB95-4ADF-A8E7-06AC34CBCE1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691F8F9A-C69F-4BCB-B102-9A5366D042CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691F8F9A-C69F-4BCB-B102-9A5366D042CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691F8F9A-C69F-4BCB-B102-9A5366D042CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691F8F9A-C69F-4BCB-B102-9A5366D042CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95874103-CB95-4ADF-A8E7-06AC34CBCE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95874103-CB95-4ADF-A8E7-06AC34CBCE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95874103-CB95-4ADF-A8E7-06AC34CBCE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95874103-CB95-4ADF-A8E7-06AC34CBCE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
